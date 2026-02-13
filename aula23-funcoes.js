@@ -37,6 +37,21 @@
 
 //
 
+function validarUsuario() {
+  console.log("Validando usuário: admin");
+}
+
+
+
+function validarUsuarioAdmin() {
+  console.log("Validando usuário: admin");
+}
+
+function validarUsuarioGuest() {
+  console.log("Validando usuário: guest");
+}
+
+
 // Simulando um teste completo
 
 // function iniciarTeste() {
